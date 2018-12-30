@@ -6,3 +6,7 @@ The code for this is a little bit messy, but I put in some comments to help guid
 
 The file is located in the same directory as the project.
 Put in the full path of the json file.
+
+With the terminal in the project directory.
+The project is compiled with:  javac -cp gson-2.8.5.jar Parser.java
+The project is run with:       java -cp ".;gson-2.8.5.jar" Parser
