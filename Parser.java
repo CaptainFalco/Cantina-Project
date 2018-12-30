@@ -2,8 +2,9 @@
 * Future additions:
 *   Selector Chains - Create a list of JsonObjects containing the first selector in the chain. Then check that list for the second selector and so on. (If selector chains is what I think they are.) 
 *   Catch to make sure the correct file type is input.
-*
-* C:\\Users\\Joe\\Desktop\\Cantina Project\\SystemViewController.json
+* 
+* Path I used to test on my computer. 
+* C:\Users\Joe\Desktop\Cantina Project\SystemViewController.json
 */
 import java.io.FileReader;
 import java.util.*;
